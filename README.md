@@ -188,3 +188,4 @@ pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 
 HARDE_TEST
 HARDE_test1
+harde-01
